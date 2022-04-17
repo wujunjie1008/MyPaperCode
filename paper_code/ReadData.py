@@ -52,7 +52,6 @@ print(Avectors.shape)
 data = np.loadtxt(topo_emb_path, dtype=float, delimiter=' ', skiprows=1)
 TnodeID = data[:, 0].astype(int)
 Tvectors = np.delete(data, 0, axis=1)  # 裁掉第一列的 nodeID
-print(Tvectors.shape)
 
 
 
