@@ -39,8 +39,6 @@ args = parse_args("citeseer")   # 林栩数据集命名
 G = nx.read_edgelist(args.graph, nodetype=int, create_using=nx.DiGraph())
 # 转化成无向图
 G = G.to_undirected()
-# 去掉自己连自己的边
-G.remove_edges_from(G.selfloop_edges())
 
 print(G.number_of_nodes())
 
