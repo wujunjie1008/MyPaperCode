@@ -2,10 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ae4760-0e15-4893-9e35-8fe626a89f73" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/CiteSeer/network.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Step1Fitness.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/citeseer/remap/citeseer.ugraph">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attrWalker/attrDW.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4724" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/Anaconda/Anaconda3/Lib/site-packages/networkx/readwrite/edgelist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="248" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/Biased_DAF_attbiased_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="267" column="14" selection-start-line="267" selection-start-column="14" selection-end-line="267" selection-end-column="14" />
+              <folding>
+                <element signature="e#17#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,38 +86,29 @@
       <find>print</find>
     </findStrings>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/fitness_step1.py" />
         <option value="$PROJECT_DIR$/Biased_DAF_attbiased_v2.py" />
+        <option value="$PROJECT_DIR$/Step1Fitness.py" />
         <option value="$PROJECT_DIR$/Datasets_Attributed Networks/Biased_DAF_attbiased_v2.py" />
         <option value="$PROJECT_DIR$/ReadData.py" />
-        <option value="$PROJECT_DIR$/Step1Fitness.py" />
       </list>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectId" id="27mESMIdAObG04eOFp38iN7WpMx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,46 +120,31 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../code/AttrEA" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\paper_code\Step1" />
       <recent name="D:\paper_code\Datasets_Attributed Networks" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Python.ReadData">
-    <configuration name="BAS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="paper_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Step1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step1/BAS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Biased_DAF_attbiased_v2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="paper_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +157,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datasets_Attributed Networks/Biased_DAF_attbiased_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -124,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FCM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Biased_DAF_attbiased_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="paper_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Step1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step1/FCM.py" />
+      <option name="SCRIPT_NAME" value="D:\paper_code\Datasets_Attributed Networks\Biased_DAF_attbiased_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +199,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReadData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -180,8 +220,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\paper_code\Step1\Step1Fitness.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step1Fitness.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,14 +232,12 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.ReadData" />
-        <item itemvalue="Python.FCM" />
-        <item itemvalue="Python.BAS" />
-        <item itemvalue="Python.Step1Fitness" />
         <item itemvalue="Python.Biased_DAF_attbiased_v2 (1)" />
+        <item itemvalue="Python.Step1Fitness" />
+        <item itemvalue="Python.Biased_DAF_attbiased_v2" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -211,22 +248,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649572754666</updated>
-      <workItem from="1649916861924" duration="6174000" />
-      <workItem from="1650175177778" duration="1794000" />
-      <workItem from="1650185664785" duration="776000" />
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -239,14 +272,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/paper_code$FCM.coverage" NAME="FCM Coverage Results" MODIFIED="1650091211387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Step1" />
-    <SUITE FILE_PATH="coverage/paper_code$BAS.coverage" NAME="BAS Coverage Results" MODIFIED="1649922945461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Step1" />
-    <SUITE FILE_PATH="coverage/paper_code$ReadData.coverage" NAME="ReadData Coverage Results" MODIFIED="1650185835674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://F:/python/Lib/site-packages/geatpy/__init__.py">
@@ -309,9 +334,6 @@
     <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/CiteSeer/community.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/cora/community.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/wiki/community.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -345,40 +367,132 @@
     <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/BlogCataLog/features.txt">
       <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadData.py">
+    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/CiteSeer/features.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/figlabelmetics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state relative-caret-position="886">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://F:/Anaconda/Anaconda3/Lib/site-packages/networkx/readwrite/edgelist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5434">
+        <state relative-caret-position="380">
           <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="248" selection-end-column="4" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/deepwalk-master/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepwalk-master/deepwalk/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6308" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepwalk-master/deepwalk/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3338">
+          <folding>
+            <element signature="e#48#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepwalk-master/deepwalk/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepwalk-master/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepwalk-master/tests/test_deepwalk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#135#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepwalk-master/README.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emb/dw.citeseer.emb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attrWalker/emb/Adw.citeseer.emb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/citeseer.emb15">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/citeseer.emb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="137" lean-forward="true" selection-start-line="13" selection-start-column="137" selection-end-line="13" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/cora/community.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/Biased_DAF_attbiased_v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3146">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        <state relative-caret-position="248">
+          <caret line="267" column="14" selection-start-line="267" selection-start-column="14" selection-end-line="267" selection-end-column="14" />
           <folding>
             <element signature="e#17#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/CiteSeer/features.txt">
+    <entry file="file://$PROJECT_DIR$/attrWalker/attrDW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4724" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/citeseer/remap/citeseer.cmty">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets_Attributed Networks/CiteSeer/network.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/citeseer/remap/citeseer.ugraph">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/citeseer/remap/citeseer.feat">
       <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Step1Fitness.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="220">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
