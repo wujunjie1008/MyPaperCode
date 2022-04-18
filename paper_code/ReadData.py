@@ -3,7 +3,7 @@ import tools
 import argparse
 import networkx as nx
 import numpy as np
-
+import StepOne.FCM as fcm
 
 def parse_args(dataset):    # 为dataset名增加路径等参数
 
@@ -49,6 +49,10 @@ data = np.loadtxt(attr_emb_path, dtype=float, delimiter=' ', skiprows=1)
 AnodeID = data[:, 0].astype(int)
 Avectors = np.delete(data, 0, axis=1)  # 裁掉第一列的 nodeID
 print(Avectors.shape)
+
+a = fcm.FCM(data,5,30)
+print(a.U.shape)
+
 data = np.loadtxt(topo_emb_path, dtype=float, delimiter=' ', skiprows=1)
 TnodeID = data[:, 0].astype(int)
 Tvectors = np.delete(data, 0, axis=1)  # 裁掉第一列的 nodeID
