@@ -2,6 +2,8 @@ import random
 
 import numpy as np
 import matplotlib.pyplot as plt
+
+import Step1Fitness as fit
 plt.rcParams['font.sans-serif']=['SimHei']
 plt.rcParams['axes.unicode_minus']=False
 from sklearn import datasets
@@ -23,7 +25,7 @@ class FCM:
             C = self.Cen_Iter(self.data, self.U, self.cnum)
             self.U = self.U_Iter(self.U, C)
             print("第%d次迭代" %(i+1) ,end="")
-            print("聚类中心",C)
+            # print("聚类中心",C)
             J = self.J_calcu(self.data, self.U, C)  # 计算目标函数
             Jlist = np.append(Jlist, J)
         self.label = np.argmax(self.U, axis=0)  # 所有样本的分类标签
@@ -204,7 +206,7 @@ def example2():
     y = np.append(y1, y2, axis=0)
     y = np.append(y, y3, axis=0)
     data = np.append(x, y, axis=1)
-
+    print(data)
     a = FCM(data, 3,20)  # 将数据分为三类
     a.plot()    # 打印结果图
 def example3():
@@ -235,15 +237,14 @@ def example3():
     z = np.append(z1, z2, axis=0)
     z = np.append(z, z3, axis=0)
     data = np.append(x, y, axis=1)
-    print(data.shape)
     data=np.append(data,z,axis=1)
 
     a = FCM(data, 4,30)  # 将数据分为三类
     a.plot()  # 打印结果图
 
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
 #     # example0()
 #     #example1()
-#     #example2()
-#     example3()
+#     example2()
+    example3()

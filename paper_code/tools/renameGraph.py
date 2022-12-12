@@ -106,7 +106,7 @@ for io_path in io_paths:
 
 
 io_paths = [['../dataset/citeseer/citeseer.content', '../dataset/citeseer/remap/citeseer.map',
-             '../dataset/citeseer/remap/citeseer.cmty', '../dataset/citeseer/remap/citeseer.feat']
+             '../dataset/citeseer/remap/CiteSeer.cmty', '../dataset/citeseer/remap/citeseer.feat']
             ]
 
 for io_path in io_paths:

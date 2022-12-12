@@ -160,7 +160,7 @@ if __name__ == '__main__':
     #     # edge_path = '../datasets/attr/artificial/network' + file_name + '.txt'
     #     # community_path = '../datasets/attr/artificial/community' + file_name + '.txt'
     #     edge_path = os.path.join(file_name, 'citeseer.ugraph')
-    #     community_path = os.path.join(file_name, 'citeseer.cmty')
+    #     community_path = os.path.join(file_name, 'CiteSeer.cmty')
     #     bdang = BDAttributeNetworkGenerator(edge_path, community_path, multiple, zero_rate, one_rate)
     #     bdang.run()
 
